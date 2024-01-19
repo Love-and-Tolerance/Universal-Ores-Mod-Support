@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/granite_lapis_ore"
+		},
+		{
+			"model": "universal_ores:block/granite_lapis_ore_2"
+		},
+		{
+			"model": "universal_ores:block/granite_lapis_ore_3"
+		},
+		{
+			"model": "universal_ores:block/granite_lapis_ore_4"
+		},
+		{
+			"model": "universal_ores:block/granite_lapis_ore_5"
+		},
+		{
+			"model": "universal_ores:block/granite_lapis_ore_6"
+		}
+	]
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"": [
+		{
+			"model": "universal_ores:block/tuff_iron_ore"
+		},
+		{
+			"model": "universal_ores:block/tuff_iron_ore_2"
+		},
+		{
+			"model": "universal_ores:block/tuff_iron_ore_3"
+		},
+		{
+			"model": "universal_ores:block/tuff_iron_ore_4"
+		},
+		{
+			"model": "universal_ores:block/tuff_iron_ore_5"
+		},
+		{
+			"model": "universal_ores:block/tuff_iron_ore_6"
+		}
+	]
+	}
+}
